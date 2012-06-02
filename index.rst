@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to meeting's documentation!
-===================================
+えくすとりーむはっかそんのミーティング
+======================================
 
 Contents:
 
@@ -12,11 +12,4 @@ Contents:
    :maxdepth: 2
 
    meeting/0602
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
